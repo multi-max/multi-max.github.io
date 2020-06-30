@@ -9,3 +9,6 @@ der für eine Hauptrolle mit diesem Filmpreis ausgezeichnet wurde.
 * Geboren: 28. Dezember 1954 (Alter 65 Jahre)
 * Größe: 1,85 m
 * Ehepartnerin: Pauletta Washington (verh. 1983)
+
+Zitat:
+> Wenn Sie einen Feind haben, dann lernen und kennen Sie Ihren Feind, seien Sie nicht nur sauer auf ihn oder sie.
