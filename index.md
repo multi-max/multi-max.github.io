@@ -13,5 +13,5 @@ der für eine Hauptrolle mit diesem Filmpreis ausgezeichnet wurde.
 Zitat:
 > Wenn Sie einen Feind haben, dann lernen und kennen Sie Ihren Feind, seien Sie nicht nur sauer auf ihn oder sie.
 
-<img scr="https://upload.wikimedia.org/wikipedia/commons/4/42/Denzel_Washington.jpeg"/> 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Denzel_Washington.jpeg"/> 
+https://upload.wikimedia.org/wikipedia/commons/4/42/Denzel_Washington.jpeg
