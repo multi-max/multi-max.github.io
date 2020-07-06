@@ -14,3 +14,4 @@ Zitat:
 > Wenn Sie einen Feind haben, dann lernen und kennen Sie Ihren Feind, seien Sie nicht nur sauer auf ihn oder sie.
 
 <img scr="https://otakukart.com/wp-content/uploads/2020/04/Denzel-Washington.jpeg"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Edward_Snowden_2013-10-9_%281%29_%28cropped%29.jpg"/>
