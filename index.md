@@ -13,4 +13,4 @@ der für eine Hauptrolle mit diesem Filmpreis ausgezeichnet wurde.
 Zitat:
 > Wenn Sie einen Feind haben, dann lernen und kennen Sie Ihren Feind, seien Sie nicht nur sauer auf ihn oder sie.
 
-<img scr="https://otakukart.com/wp-content/uploads/2020/04/Denzel-Washington.jpeg"> 
+<img scr="https://otakukart.com/wp-content/uploads/2020/04/Denzel-Washington.jpeg"/> 
